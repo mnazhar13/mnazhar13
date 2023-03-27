@@ -18,7 +18,7 @@
 
 ## Contact
 
-📧 You can find me on [LinkedIn](https://www.linkedin.com/in/muhammad-nur-azhar-499b11256/) or email me at muhammadnurazhar@graduate.utm.my
+📧 Find me on [LinkedIn](https://www.linkedin.com/in/muhammad-nur-azhar-499b11256/) or email me at muhammadnurazhar@graduate.utm.my
 
 ---
 
