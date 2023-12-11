@@ -2,7 +2,7 @@
 
 😎 Or I go with the name KaziriX.
 
-👩‍🎓 A freshmen data engineering student from Putrajaya. Passionate about 📊 data analysis and 💻 software development.
+👩‍🎓 Data engineering student from Putrajaya. Passionate about 📊 data analysis and 💻 software development.
 
 ## Current Projects
 
