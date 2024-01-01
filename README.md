@@ -15,6 +15,10 @@
 ## Education
 
 🎓 BSc in Data Engineering, University of Technology Malaysia, 2022-present
+🎓 Foundation of Engineering, University of Technology MARA Dengkil, 2021-2022
+🎓 SMKA Putrajaya, 2016-2020/21
+🎓 SK Putrajaya Presint 14(1), 2010-2015
+
 
 ## Contact
 
