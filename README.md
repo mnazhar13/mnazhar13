@@ -8,7 +8,7 @@
 
 📚 Learning the fundamentals of GitHub
 
-📚 <a href="https://github.com/mnazhar13/WBL_AKMMS">WBL_AKMMS</a>
+📚 Semester 3 (2023/2024-1) Project: <a href="https://github.com/mnazhar13/WBL_AKMMS">AK Maju Management System (AKMMS)</a>
 
 ## Skills
 
