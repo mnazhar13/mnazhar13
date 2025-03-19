@@ -12,7 +12,7 @@
 
 ## Skills
 
-💻 C & C++
+💻 C, C++, Java, Python
 
 ## Education
 
